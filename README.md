@@ -1,0 +1,1 @@
+Reactive WebFlux app for downloading binary files from s3 storage and providing them in rest response.
